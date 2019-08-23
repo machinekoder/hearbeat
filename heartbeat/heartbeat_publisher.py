@@ -2,7 +2,6 @@
 import rclpy
 from rclpy.node import Node
 from rclpy.clock import Clock
-from rclpy.exceptions import ParameterNotDeclaredException
 
 from std_msgs.msg import Header
 
